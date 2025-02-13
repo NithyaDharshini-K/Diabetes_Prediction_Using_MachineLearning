@@ -2,6 +2,9 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Vs6hAW1P_BtirGWHDsygDL4ZGEfGZ5S?usp=sharing)  
 
+## 📂 **Project Repository**  
+🔗 [GitHub Repository](https://github.com/NithyaDharshini-K/Diabetes_Prediction_Using_MachineLearning.git)  
+
 ---
 
 ## 🚀 **About the Project**  
